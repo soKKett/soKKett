@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soKKett
 - 👀 I’m interested in Web Development, especially UI development
-- 🌱 Eternally honing my skills in JS
+- 🌱 Eternally honing my skills in TS
 - 💞️ I’m looking for Frontend developers in my team
 - 📫 How to reach me: telegram @sokkett, email: gmsautin@gmail.com
